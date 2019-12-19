@@ -1,0 +1,58 @@
+{
+    "name": "Scringo",
+    "description": "Scringo offers a unique Community & Messaging Platform that turns every app into an independent, dynamic and fully functional social network.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1671-scringo.jpg",
+    "tags": [
+        "baas",
+        "have api",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scringo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Scringo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1671-scringo.jpg",
+            "humanURL": "http:\/\/www.scringo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scringo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.scringo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.scringo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.scringo.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/scringo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scringo?utm_source=odm_csv_v101&utm_medium=export&utm_campaign=dataset"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Scringo"
+        }
+    ]
+}
